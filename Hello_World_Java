@@ -1,0 +1,11 @@
+// Hello_World_Java
+// 20 April 2025
+// Kronous666
+
+public class Main
+{
+  public static void main(String[] args)
+  {
+    System.out.println("Hello world!");
+  }
+}
